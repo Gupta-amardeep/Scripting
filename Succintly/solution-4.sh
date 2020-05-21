@@ -12,3 +12,7 @@ then
 else
   echo "file not exist"
 fi
+
+
+
+# https://www.computerhope.com/unix/test.htm

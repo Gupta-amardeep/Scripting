@@ -23,3 +23,5 @@ for animal in $animals
 do
   echo "animal is $animal"
 done
+
+#Note:- Do not use space before and after '='
